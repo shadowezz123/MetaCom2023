@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 import "hardhat/console.sol";
 
-contract DefiMain {
+contract DeBW {
 
     address owner;
     // in seconds
